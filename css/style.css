@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 198, 198);
+}
+.box {
+    height: 500px;
+    background-color: rgb(255, 198, 198);
+    margin-top: 40px;
+}
+video {
+    width: 100%;
+    object-fit: cover;
+    height: inherit;
+    border: 5px solid black;
+}
+img {
+    width: 15%;
+}
+.items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
